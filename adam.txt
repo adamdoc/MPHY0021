@@ -1,3 +1,3 @@
-hello
+hello.
 
->> Morgan	Hello Adam, my name is Morgan
+>> Morgan	Hello Adam, my name is Morgan.
